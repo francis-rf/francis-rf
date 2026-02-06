@@ -1,9 +1,58 @@
-<h1 align="center">Hi 👋, I'm Francis</h1>
-<h3 align="center">A passionate AI and LLM application developer from India</h3>
+# Hi, I'm Francis RF 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🎯 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+Associate Engineer transitioning into **AI/LLM Application Development**. I build end-to-end AI systems using modern frameworks like LangChain, CrewAI, and FastAPI. Passionate about multi-agent systems, RAG pipelines, and practical AI applications.
+
+## 🛠️ Tech Stack
+
+**AI/LLM Frameworks:**
+- LangChain, LangGraph, CrewAI
+- OpenAI API, Anthropic Claude, Google Gemini, Groq
+
+**Backend & APIs:**
+- FastAPI, Streamlit, Gradio
+- MCP (Model Context Protocol)
+
+**Vector Databases & Tools:**
+- FAISS, Tavily Search
+- PDF/Document Processing (python-docx, PyMuPDF)
+
+**Languages & Tools:**
+- Python, JavaScript
+- Docker, Git
+- C# (previous experience)
+
+## 🚀 Featured Projects
+
+### [Multi-Modal AI Chatbot](https://github.com/francis-rf/multimodal-ai-chatbot)
+Multi-modal chatbot supporting vision analysis, image generation, and web search across multiple LLM providers (OpenAI, Gemini, Groq). Features tool calling integration with Tavily search.
+
+**Tech:** FastAPI • OpenAI • Gemini • Groq • Tavily • Docker
+
+### [RAG Document Q&A](https://github.com/francis-rf/rag-document-qa)
+Retrieval-Augmented Generation system using LangGraph and FAISS for answering questions from uploaded documents. Implements ReAct agent workflow with web search fallback.
+
+**Tech:** LangGraph • LangChain • FAISS • Gradio • Tavily
+
+### [AI Code Review Crew](https://github.com/francis-rf/ai-code-review-crew)
+Multi-agent code review system with 4 specialized agents (Bug Detector, Security Analyzer, Performance Analyzer, Documentation Reviewer) collaborating via CrewAI. Includes Streamlit UI with GitHub repo integration.
+
+**Tech:** CrewAI • Streamlit • OpenAI • Multi-Agent Systems
+
+### [Study Tools MCP Server](https://github.com/francis-rf/study-tools-mcp-server)
+AI-powered study assistant MCP server for Claude Desktop. Generates quizzes, flashcards, summaries, and explanations from PDF/Markdown notes.
+
+**Tech:** MCP Protocol • FastAPI • OpenAI • PDF Processing
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=francis-rf&show_icons=true&theme=radical)
+
+## 📫 Let's Connect
+
+
+
+---
+
+⚡ *Currently exploring: Advanced multi-agent workflows and autonomous AI systems*
