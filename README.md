@@ -1,4 +1,4 @@
-# Hi, I'm Francis RF 👋
+# Hi, I'm Francis 👋
 
 ## 🎯 About Me
 
