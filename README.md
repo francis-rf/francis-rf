@@ -33,17 +33,17 @@ Multi-modal chatbot supporting vision analysis, image generation, and web search
 ### [RAG Document Q&A](https://github.com/francis-rf/rag-document-qa)
 Retrieval-Augmented Generation system using LangGraph and FAISS for answering questions from uploaded documents. Implements ReAct agent workflow with web search fallback.
 
-**Tech:** LangGraph • LangChain • FAISS • Gradio • Tavily
+**Tech:** LangGraph • LangChain •FastAPI • FAISS • Gradio • Tavily • Docker
 
-### [AI Code Review Crew](https://github.com/francis-rf/ai-code-review-crew)
-Multi-agent code review system with 4 specialized agents (Bug Detector, Security Analyzer, Performance Analyzer, Documentation Reviewer) collaborating via CrewAI. Includes Streamlit UI with GitHub repo integration.
+### [AI Code Review Crew](https://github.com/francis-rf/code-review-crew)
+Multi-agent code review system with 4 specialized agents (Bug Detector, Security Analyzer, Performance Analyzer, Documentation Reviewer) collaborating via CrewAI. GitHub repo integration.
 
-**Tech:** CrewAI • Streamlit • OpenAI • Multi-Agent Systems
+**Tech:** CrewAI •FastAPI • OpenAI • Multi-Agent Systems • Docker
 
 ### [Study Tools MCP Server](https://github.com/francis-rf/study-tools-mcp-server)
 AI-powered study assistant MCP server for Claude Desktop. Generates quizzes, flashcards, summaries, and explanations from PDF/Markdown notes.
 
-**Tech:** MCP Protocol • FastAPI • OpenAI • PDF Processing
+**Tech:** MCP Protocol • FastAPI • OpenAI • PDF Processing • Docker
 
 ## 📊 GitHub Stats
 
