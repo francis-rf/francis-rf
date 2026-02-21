@@ -48,6 +48,7 @@
 
 ### Vector Databases & Search
 ![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logoColor=white)
+![Chromadb](https://img.shields.io/badge/Chromadb%20Search-F7DF1E?style=for-the-badge&logoColor=white)
 ![Tavily](https://img.shields.io/badge/Tavily%20Search-5C67F2?style=for-the-badge&logoColor=white)
 
 ---
@@ -95,19 +96,11 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/francis-rf)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/francis-rf)
+[![Website](https://img.shields.io/badge/website-100000?style=for-the-badge&logo=website&logoColor=white)](https://github.com/francis-rf)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francis@example.com)
 
 </div>
 
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=francis-rf&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
