@@ -16,7 +16,7 @@
 - 🤖 Building end-to-end AI systems with **LangChain, CrewAI, FastAPI**
 - 🧠 Passionate about **Multi-Agent Systems, RAG Pipelines & MCP**
 - 🌱 Currently exploring: **Advanced Agentic Workflows & Autonomous AI**
-- - ☁️ Deploying AI applications on **AWS** (Bedrock AgentCore, EC2, S3)
+ - ☁️ Deploying AI applications on **AWS** (Bedrock AgentCore, EC2, S3)
 - 💼 Working at **Capgemini**, Bengaluru India
 - 🏃 Hobbies: Trekking & Running
 - 🐍 Primary Language: **Python** | Background in **C#**
