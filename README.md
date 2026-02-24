@@ -48,7 +48,7 @@
 
 ### Vector Databases & Search
 ![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logoColor=white)
-![Chromadb](https://img.shields.io/badge/Chromadb%20Search-F7DF1E?style=for-the-badge&logoColor=white)
+![Chromadb](https://img.shields.io/badge/Chromadb-F7DF1E?style=for-the-badge&logoColor=white)
 ![Tavily](https://img.shields.io/badge/Tavily%20Search-5C67F2?style=for-the-badge&logoColor=white)
 
 ---
@@ -61,63 +61,36 @@
 | [📄 RAG Document Q&A](https://github.com/francis-rf/rag-document-qa) | LangGraph + FAISS RAG system with ReAct agent workflow & web search fallback | LangGraph • LangChain • FAISS • Gradio |
 | [🔍 AI Code Review Crew](https://github.com/francis-rf/code-review-crew) | 4-agent code review system (Bug, Security, Performance, Docs) via CrewAI | CrewAI • FastAPI • OpenAI • Docker |
 | [📚 Study Tools MCP Server](https://github.com/francis-rf/study-tools-mcp-server) | AI study assistant MCP server for Claude Desktop with quizzes & flashcards | MCP • FastAPI • OpenAI • PyMuPDF |
+| [❓ FAQ Bedrock AgentCore](https://github.com/francis-rf/faq-bedrock-agentcore) | FAQ agent for Lauki Phones covering plans, billing & device support, deployed on AWS Bedrock AgentCore | LangGraph • FastAPI • AWS Bedrock • Groq |
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=francis-rf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francis-rf&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
-<div align="center">
+ 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=francis-rf&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
 ## 💬 Programming Quote of the Day
 
-<div align="center">
-
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/francis-rf)
 [![Website](https://img.shields.io/badge/website-100000?style=for-the-badge&logo=website&logoColor=white)](https://github.com/francis-rf)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francis@example.com)
-
-</div>
-
 
 ---
 
 ## 📈 Activity Graph
 
-<div align="center">
-
 [![Francis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=francis-rf&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
-
 ---
 
 ---
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
-</div>
