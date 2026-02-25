@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20I'm%20Francis%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Associate+Engineer+%E2%86%92+AI%2FLLM+Developer;Building+Multi-Agent+Systems+%F0%9F%A4%96;RAG+Pipelines+%7C+LangChain+%7C+CrewAI+%7C+FastAPI;Passionate+about+Practical+AI+Applications+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Associate+Engineer%E2%86%92AI%2FLLM+Developer;Building+Multi-Agent+Systems%F0%9F%A4%96;RAG+Pipelines%7C+LangChain%7C+CrewAI%7C+FastAPI;Passionate+about+Practical+AI+Applications%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=francis-rf&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/francis-rf)
 
@@ -16,16 +16,15 @@
 - 🤖 Building end-to-end AI systems with **LangChain, CrewAI, FastAPI**
 - 🧠 Passionate about **Multi-Agent Systems, RAG Pipelines & MCP**
 - 🌱 Currently exploring: **Advanced Agentic Workflows & Autonomous AI**
- - ☁️ Deploying AI applications on **AWS** (Bedrock AgentCore, EC2, S3)
+- ☁️ Deploying AI applications on **AWS** (Bedrock AgentCore, EC2, S3)
 - 💼 Working at **Capgemini**, Bengaluru India
 - 🏃 Hobbies: Trekking & Running
 - 🐍 Primary Language: **Python** | Background in **C#**
 
----
-
 ## 🛠️ Tech Stack
 
 ### AI/LLM Frameworks
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logo=langchain&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=crewai&logoColor=white)
@@ -35,11 +34,13 @@
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
 
 ### Backend & APIs
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logoColor=white)
 
 ### Languages & Tools
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -48,50 +49,35 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Vector Databases & Search
+
 ![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logoColor=white)
 ![Chromadb](https://img.shields.io/badge/Chromadb-F7DF1E?style=for-the-badge&logoColor=white)
 ![Tavily](https://img.shields.io/badge/Tavily%20Search-5C67F2?style=for-the-badge&logoColor=white)
 
----
-
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🤖 Multi-Modal AI Chatbot](https://github.com/francis-rf/multimodal-ai-chatbot) | Multi-modal chatbot with vision, image gen & web search across LLM providers | FastAPI • OpenAI • Gemini • Groq • Tavily |
-| [📄 RAG Document Q&A](https://github.com/francis-rf/rag-document-qa) | LangGraph + FAISS RAG system with ReAct agent workflow & web search fallback | LangGraph • LangChain • FAISS • Gradio |
-| [🔍 AI Code Review Crew](https://github.com/francis-rf/code-review-crew) | 4-agent code review system (Bug, Security, Performance, Docs) via CrewAI | CrewAI • FastAPI • OpenAI • Docker |
-| [📚 Study Tools MCP Server](https://github.com/francis-rf/study-tools-mcp-server) | AI study assistant MCP server for Claude Desktop with quizzes & flashcards | MCP • FastAPI • OpenAI • PyMuPDF |
-| [❓ FAQ Bedrock AgentCore](https://github.com/francis-rf/faq-bedrock-agentcore) | FAQ agent for Lauki Phones covering plans, billing & device support, deployed on AWS Bedrock AgentCore | LangGraph • FastAPI • AWS Bedrock • Groq |
-
----
+| Project | Description | Tech | Links |
+|---|---|---|---|
+| 🤖 [Multi-Modal AI Chatbot](https://github.com/francis-rf/multimodal-ai-chatbot) | Multi-modal chatbot with vision, image gen & web search across LLM providers | FastAPI • OpenAI • Gemini • Groq • Tavily | [![Live Demo](https://img.shields.io/badge/Live-AWS_App_Runner-orange?logo=amazonaws)](https://meprv5hz3z.us-east-1.awsapprunner.com/) [![CI/CD](https://github.com/francis-rf/multimodal-ai-chatbot/actions/workflows/deploy.yml/badge.svg)](https://github.com/francis-rf/multimodal-ai-chatbot/actions/workflows/deploy.yml) |
+| 📄 [RAG Document Q&A](https://github.com/francis-rf/rag-document-qa) | LangGraph + FAISS RAG system with ReAct agent workflow & web search fallback | LangGraph • LangChain • FAISS • Gradio | |
+| 🔍 [AI Code Review Crew](https://github.com/francis-rf/code-review-crew) | 4-agent code review system (Bug, Security, Performance, Docs) via CrewAI | CrewAI • FastAPI • OpenAI • Docker | |
+| 📚 [Study Tools MCP Server](https://github.com/francis-rf/study-tools-mcp-server) | AI study assistant MCP server for Claude Desktop with quizzes & flashcards | MCP • FastAPI • OpenAI • PyMuPDF | |
+| ❓ [FAQ Bedrock AgentCore](https://github.com/francis-rf/faq-bedrock-agentcore) | FAQ agent for Lauki Phones covering plans, billing & device support, deployed on AWS Bedrock AgentCore | LangGraph • FastAPI • AWS Bedrock • Groq | |
 
 ## 📊 GitHub Stats
 
- 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=francis-rf&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
----
+[![GitHub Streak](https://streak-stats.demolab.com/?user=francis-rf&theme=dark)](https://git.io/streak-stats)
 
 ## 💬 Programming Quote of the Day
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
----
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/francis-rf)
-[![Website](https://img.shields.io/badge/website-100000?style=for-the-badge&logo=website&logoColor=white)](https://github.com/francis-rf)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/francis-rf)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francis@example.com)
-
----
 
 ## 📈 Activity Graph
 
-[![Francis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=francis-rf&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
----
+[![Francis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=francis-rf&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
