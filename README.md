@@ -77,9 +77,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=francis-rf&theme=react-dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Francis's GitHub stats](https://github-readme-stats.vercel.app/api?username=francis-rf&show_icons=true&theme=react&hide_border=true&count_private=true)](https://github.com/francis-rf)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francis-rf&layout=compact&theme=react&hide_border=true)](https://github.com/francis-rf)
-
 </div>
 
 ## 💬 Programming Quote of the Day
