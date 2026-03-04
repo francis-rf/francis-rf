@@ -3,15 +3,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Associate+Engineer%E2%86%92AI%2FLLM+Developer;Building+Multi-Agent+Systems%F0%9F%A4%96;RAG+Pipelines%7C+LangChain%7C+CrewAI%7C+FastAPI;Passionate+about+Practical+AI+Applications%F0%9F%9A%80" />
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="700" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/francis-rf/francis-rf/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/francis-rf/francis-rf/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/francis-rf/francis-rf/output/github-snake-dark.svg" width="700" />
+</picture>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=francis-rf&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/francis-rf)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/francis-rf/francis-rf/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/francis-rf/francis-rf/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/francis-rf/francis-rf/blob/output/github-snake-dark.svg" />
-</picture>
 
 </div>
 
